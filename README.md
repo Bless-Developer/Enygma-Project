@@ -4,7 +4,7 @@ Página dedicada ao artista independente Enygma, desenvolvido como projeto de es
 
 ## Estado atual do projeto:
 
- EM DESENVOLVIMENTO - Versão 0.1
+ EM DESENVOLVIMENTO - Versão 0.2
 
 ## Objetivo
 
@@ -23,9 +23,10 @@ O intuito deste projeto é praticar conceitos fundamentais do desenvolvimento we
  [Visualizar projeto](https://bless-developer.github.io/Enygma-Project/)
 
 ## Próximas melhorias
- - Melhorias nos ícones de links e imagem promocional do artista;
+ - Carrossel de vídeos do artista.
  - Seções sobre o artista;
  - Melhoria no design.
+
 
 ## Desenvolvida por
  Bless
